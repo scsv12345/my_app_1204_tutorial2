@@ -1,0 +1,22 @@
+{
+  "name": "gitclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scsv12345/my_app_1204_tutorial2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scsv12345/my_app_1204_tutorial2/issues"
+  },
+  "homepage": "https://github.com/scsv12345/my_app_1204_tutorial2#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
